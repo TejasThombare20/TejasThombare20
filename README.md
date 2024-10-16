@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **Golang and NEXTJS14**
+- 🌱 I’m currently learning **Golang **
 
 - 👨‍💻 All of my projects are available at [https://tejas-thombare.vercel.app/](https://tejas-thombare.vercel.app/)
 
