@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **Golang **
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://tejas-thombare.vercel.app/](https://tejas-thombare.vercel.app/)
 
-- 💬 Ask me about **React , NextJS , ThreeJS**
+- 💬 Ask me about **React, NextJS, ThreeJS, NodeJS, Spring-boot**
 
 - 📫 How to reach me **iamtejasthombare18@gmail.com**
 
