@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **iamtejasthombare18@gmail.com**
 
-- ⚡ **like to read the space documentry and explore the space**
+- ⚡ like to read the space documentry and explore the space
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
