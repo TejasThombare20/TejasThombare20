@@ -25,6 +25,9 @@
 #### Frontend
 `React.js` `Next.js` `Vite.js` `TailwindCSS`
 
+#### Databases 
+`MYSQL` `Postegres` `MongoDB` `Firestore` `VectorDatabase` 
+
 #### AI / GenAI
 `LLMs` `RAG` `Agentic AI` `LangChain` `LangGraph` `Embeddings` `Vector Databases`
 
